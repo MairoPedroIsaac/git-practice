@@ -1,2 +1,1 @@
 “1. Hello, there, my name is Pedro" 
-"2. Hello, there, my name is John"
